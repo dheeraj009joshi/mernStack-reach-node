@@ -28,3 +28,7 @@ To set up and run the Time Logger project locally, follow these steps:
 
    ```bash
    git clone https://github.com/dheeraj009joshi/mernStack-reach-node.git
+   
+2. Change directory to the project folder:
+   ```bash
+   cd time-logger-project
