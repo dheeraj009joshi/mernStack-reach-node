@@ -1,4 +1,6 @@
 **Time Logger Project**
+
+
 Overview
 The Time Logger project is a collaborative effort by Akash kumar and Dheeraj's joshi to develop a web application for tracking and logging time efficiently. This project leverages technologies such as React for the front end and Node.js for the backend.
 
@@ -17,11 +19,11 @@ A GitHub account
 Getting Started
 To set up and run the Time Logger project locally, follow these steps:
 
-Clone this repository to your local machine:
+**Clone this repository to your local machine:**
 
 bash
 Copy code
-git clone https://github.com/your-username/time-logger-project.git
+git clone [(https://github.com/dheeraj009joshi/mernStack-reach-node/tree/main)]
 Change directory to the project folder:
 
 bash
