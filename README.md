@@ -5,18 +5,20 @@ Overview
 The Time Logger project is a collaborative effort by Akash kumar and Dheeraj's joshi to develop a web application for tracking and logging time efficiently. This project leverages technologies such as React for the front end and Node.js for the backend.
 
 **Table of Contents**
-Prerequisites
-Getting Started
-Project Structure
-Contributing
-License
-Prerequisites
+1. Prerequisites
+2. Getting Started
+3. Project Structure
+4. Contributing
+5. License
+
+**Prerequisites**
 Before you begin working on the Time Logger project, ensure you have the following prerequisites:
 
-Node.js installed
-A code editor (e.g., Visual Studio Code)
-A GitHub account
-Getting Started
+*Node.js installed*
+*A code editor (e.g., Visual Studio Code)*
+*A GitHub account*
+
+**Getting Started**
 To set up and run the Time Logger project locally, follow these steps:
 
 **Clone this repository to your local machine:**
@@ -24,7 +26,8 @@ To set up and run the Time Logger project locally, follow these steps:
 bash
 Copy code
 git clone [(https://github.com/dheeraj009joshi/mernStack-reach-node/tree/main)]
-Change directory to the project folder:
+
+**Change directory to the project folder:**
 
 bash
 Copy code
