@@ -1,8 +1,8 @@
 # Time Logger Project
-This project is created and maintained by Dheeraj Joshi (dheeraj009joshi) & Akash kumar (theakash07)
+
 ## Overview
 
-The Time Logger project is a collaborative effort by Akash Kumar and Dheeraj Joshi to develop a web application for tracking and logging time efficiently. This project leverages technologies such as React for the front end and Node.js for the backend.
+The Time Logger project is a collaborative effort by Akash Kumar (theakash07) & Dheeraj Joshi (dheeraj009joshi) to develop a web application for tracking and logging time efficiently. This project leverages technologies such as React for the front end and Node.js for the backend.
 
 ## Table of Contents
 
