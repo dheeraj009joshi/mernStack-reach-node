@@ -38,7 +38,7 @@ To set up and run the Time Logger project locally, follow these steps:
       cd frontend
       npm install
 
-   b. Install backend dependencies:
+ b. Install backend dependencies:
       ```bash
       cd ../backend
       npm install
@@ -51,7 +51,7 @@ To set up and run the Time Logger project locally, follow these steps:
    cd frontend
    npm start
 
-   For backend
+For backend
    ```bash
    cd backend
    npm start
